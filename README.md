@@ -22,3 +22,4 @@ Parts required:
 
 For all of the detailed instructions visit [https://cam-do.com/blogs/camdo-blog/how-to-trigger-your-gopro-using-gps-arduino-microcontroller](https://cam-do.com/blogs/camdo-blog/how-to-trigger-your-gopro-using-gps-arduino-microcontroller)
 
+Also thanks to Mikal Hart and his TinyGPS library. V1.3 is included in this project. [Visit Mikal's Github page here.] (https://github.com/mikalhart/TinyGPS)
